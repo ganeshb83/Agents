@@ -1,7 +1,7 @@
 [project]
 name = "agents"
 version = "0.1.0"
-description = "Add your description here"
+description = "UV package managed project"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
