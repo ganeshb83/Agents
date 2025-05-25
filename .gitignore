@@ -19,3 +19,4 @@ uv.lock
 .idea
 .vscode
 .pep8
+/tmp
